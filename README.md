@@ -1,1 +1,1 @@
-
+This project involves designing an Electronic Voting Machine (EVM) using the 8051 microcontroller to conduct a secure and efficient class representative election.After voting, the microcontroller processes the input and displays the results on an LCD screen, declaring the top two candidates with the highest votes as CR1 and CR2. The project demonstrates concepts of embedded systems, digital electronics, and real-time processing.
